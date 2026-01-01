@@ -1,4 +1,3 @@
-# src/funcs.py
 
 # -------------------------
 # Ejercicio 1: Sumatoria de no negativos
